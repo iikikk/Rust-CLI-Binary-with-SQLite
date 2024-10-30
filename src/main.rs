@@ -1,8 +1,6 @@
 use std::env;
 use std::error::Error;
 use std::process;
-
-
 use sqlite::MovieManager;
 
 /// 枚举，表示可用的命令。
